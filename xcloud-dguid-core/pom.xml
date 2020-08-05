@@ -36,6 +36,10 @@
 			<artifactId>xcloud-components-core</artifactId>
 		</dependency>
 		<dependency>
+			<groupId>com.wl4g</groupId>
+			<artifactId>xcloud-components-data</artifactId>
+		</dependency>
+		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-jdbc</artifactId>
 			<optional>true</optional>
