@@ -18,6 +18,11 @@ package com.wl4g;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import com.wl4g.components.data.annotation.AutoConfigureComponentsDataSource;
+
+// @EnableIamClient
+// @EnableScmClient
+@AutoConfigureComponentsDataSource
 @SpringBootApplication
 public class DguidServer {
 
