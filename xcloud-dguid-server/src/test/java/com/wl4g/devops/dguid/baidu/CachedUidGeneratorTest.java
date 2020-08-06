@@ -22,8 +22,8 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.springframework.util.StringUtils;
 
-import com.wl4g.devops.dguid.baidu.UidGenerator;
-import com.wl4g.devops.dguid.baidu.impl.CachedUidGenerator;
+import com.wl4g.dguid.baidu.UidGenerator;
+import com.wl4g.dguid.baidu.impl.CachedUidGenerator;
 
 import javax.annotation.Resource;
 import java.io.IOException;

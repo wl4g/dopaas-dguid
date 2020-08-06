@@ -31,7 +31,8 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.springframework.util.StringUtils;
 
-import com.wl4g.devops.dguid.baidu.impl.DefaultUidGenerator;
+import com.wl4g.dguid.baidu.UidGenerator;
+import com.wl4g.dguid.baidu.impl.DefaultUidGenerator;
 
 /**
  * Test for {@link DefaultUidGenerator}

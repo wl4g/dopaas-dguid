@@ -24,7 +24,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import com.wl4g.devops.dguid.leaf.DefaultLeafIdSegmentHandler;
+import com.wl4g.dguid.leaf.DefaultLeafIdSegmentHandler;
 
 /**
  * Segment多线程并发测试

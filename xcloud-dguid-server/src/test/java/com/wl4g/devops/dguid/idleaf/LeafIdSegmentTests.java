@@ -34,7 +34,7 @@ import org.springframework.transaction.TransactionStatus;
 import org.springframework.transaction.support.TransactionCallback;
 import org.springframework.transaction.support.TransactionTemplate;
 
-import com.wl4g.devops.dguid.leaf.LeafIdSegmentHandler;
+import com.wl4g.dguid.leaf.LeafIdSegmentHandler;
 
 /**
  * {@link LeafIdSegmentTests}

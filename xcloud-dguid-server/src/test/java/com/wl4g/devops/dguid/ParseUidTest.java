@@ -19,10 +19,10 @@ import java.net.NetworkInterface;
 import java.net.SocketException;
 import java.util.Enumeration;
 
-import com.wl4g.devops.dguid.baidu.impl.DefaultUidGenerator;
-import com.wl4g.devops.dguid.snowflake.SnowflakeIdWorker;
-import com.wl4g.devops.dguid.strategy.SnowflakeStrategy;
-import com.wl4g.devops.dguid.worker.SimpleWorkerIdAssigner;
+import com.wl4g.dguid.baidu.impl.DefaultUidGenerator;
+import com.wl4g.dguid.snowflake.SnowflakeIdWorker;
+import com.wl4g.dguid.strategy.SnowflakeStrategy;
+import com.wl4g.dguid.worker.SimpleWorkerIdAssigner;
 
 public class ParseUidTest {
 
